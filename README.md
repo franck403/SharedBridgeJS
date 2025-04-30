@@ -14,11 +14,11 @@
 ---
 
 ## 📦 Install via CDN
-
-Use the reliable [jsDelivr CDN](https://cdn.jsdelivr.net):
+Recommanded : 
+ [jsDelivr CDN](https://cdn.jsdelivr.net):
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/franck403/SharedBridgeJS@latest/dist/sharedbridge.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/franck403/SharedBridgeJS@latest/main.js"></script>
 ```
 
 ---
